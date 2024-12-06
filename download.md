@@ -1,3 +1,3 @@
 # 下载
 
- - [下载地址](https://foldcraftlauncher.cn/download.html)
+ - [下载地址](https://fcl.ningmo.fun/download.html)

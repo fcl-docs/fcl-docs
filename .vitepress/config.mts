@@ -23,6 +23,7 @@ export default defineConfig({
         items: [
           { text: '介绍', link: '/docs/intro' },
           { text: '渲染器', link: '/docs/GL' },
+          { text: '禁忌的模组', link: '/docs/mods' },
         ]
        },
     ],
@@ -40,6 +41,7 @@ export default defineConfig({
         items: [
           { text: '介绍', link: '/docs/intro' },
           { text: '渲染器', link: '/docs/GL' },
+          { text: '禁忌的模组', link: '/docs/mods' },
         ]
       }
     ],

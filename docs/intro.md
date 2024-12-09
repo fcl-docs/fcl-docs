@@ -87,15 +87,16 @@
 ### forge/neoforge版本
 
 在当前界面选择某一个原版版本，在预装附加加载器的地方，选择forge/neoforge版本，点击下载，等待下载完成即可。
-
-**注意，forge与neoforge冲突，无法同时安装**
-
+::: warning 警告
+**forge与neoforge冲突，无法同时安装**
+:::
 ### fabric/quilt版本
 
 在当前界面选择某一个原版版本，在预装附加加载器的地方，选择fabric/quilt版本，发现能选fabric API(qsl/qfAPI)的选项，如果你想添加大量模组，你必须得添加fabric API(qsl/qfAPI)，点击下载，等待下载完成即可。
 
-**注意，fabric与quilt冲突，无法同时安装**
-
+::: warning 警告
+**fabric与quilt冲突，无法同时安装**
+:::
 ### optifine(高清修复)版本
 
 ::: tip

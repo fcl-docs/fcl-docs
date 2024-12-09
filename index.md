@@ -7,7 +7,7 @@ hero:
   text: "fcl 启动器文档"
   tagline: 心如止水，水如无波。
   image: 
-    src: /docs/img/fcl_logo.png
+    src: /fcl_logo.png
     alt: "fcl logo"
   actions:
     - theme: brand

@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="wiki修复">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/.vitepress/dist/wiki修复.zip!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -5,7 +5,6 @@ export default defineConfig({
   title: "fcl 文档",
   description: "fcl启动器文档",
   lang: 'zh-CN',
-
   head: [
     ['link', { rel: 'icon', href: '/fcl-logo.png' }]
   ], 

@@ -20,7 +20,7 @@
 
 </div>
 
-- [Fold Craft Launcher](https://foldcraftlauncher.cn):
+- [Fold Craft Launcher](https://fcl.ningmo.fun):
   该软件旨在在安卓设备上启动Minecraft: Java Edition，让玩家可以管理游戏、模组、控制和更多内容。
 
 - **直接在安卓设备上运行Minecraft: Java Edition**，支持模组和所有游戏版本。

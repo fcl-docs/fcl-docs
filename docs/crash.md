@@ -27,9 +27,13 @@
 ## 尝试解决问题
 ### 软件崩溃
 
-对于个人而言，你需要~~<span style="color: gray;">坐和放宽</span>~~把软件崩溃之前的详细过程记下来，然后向FCL的仓库[提交issue](https://github.com/FCL-Team/FoldCraftLauncher/issues)，最后耐心等待修复bug修复
+对于个人而言，你需要
+~~<span style="color: gray;">坐和放宽</span>~~
+把软件崩溃之前的详细过程记下来，然后向FCL的仓库[提交issue](https://github.com/FCL-Team/FoldCraftLauncher/issues)，最后耐心等待修复bug修复
 <span style="color: gray;">实在等不及可以去用户群催（</span>
 
 ### 游戏崩溃
 
 待续...
+
+<h2>文档由 @基岩蛋 编写。</h2>

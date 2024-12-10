@@ -36,7 +36,7 @@ jobs:
       run: tar -czvf dist.tar.gz .vitepress/dist/
 
     - name: Upload compressed dist files
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: dist-files
         path: dist.tar.gz

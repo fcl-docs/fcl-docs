@@ -1,4 +1,4 @@
-name: NodeJS with Grunt
+name: npm run docs:build
 
 on:
   push:

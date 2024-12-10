@@ -32,8 +32,11 @@ jobs:
       run: |
         npm run docs:build
 
-    - name: Upload dist files
+    - name: Compress dist folder
+      run: tar -czvf dist.tar.gz .vitepress/dist/
+
+    - name: Upload compressed dist files
       uses: actions/upload-artifact@v3
       with:
         name: dist-files
-        path: .vitepress/dist/
+        path: dist.tar.gz

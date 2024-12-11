@@ -75,22 +75,3 @@
 **编辑作者：** [后天盼蕾](https://github.com/hotianbexuanto)  
 **创建时间：** 2024.12.10  
 **修改时间：** 2024.12.11  
-
----
-
-
-<style>
-  /* 默认背景为深色 */
-  img {
-    background-color: #444;
-    padding: 5px;
-    border-radius: 5px;
-  }
-
-  /* 针对黑暗模式调整背景颜色 */
-  @media (prefers-color-scheme: dark) {
-    img {
-      background-color: #555;
-    }
-  }
-</style>

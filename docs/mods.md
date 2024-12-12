@@ -20,4 +20,12 @@
 0.5以下(不包括0.5)版本原生支持holy渲染器，0.5及以上版本需要修改。
 :::
 
+ 2. **[pixemon(>1.12.2)](https://modrinth.com/mod/pixelmon/)**
+ - 原因：暂且未知。
+ - 修复建议：暂且未知。
+
+3. **[Valkyrien Skies/Valkyrien Warfare(瓦尔基里)](https://modrinth.com/mod/valkyrien-skies)**
+ - 原因：硬件兼容性问题。
+ - 修复建议：可用服务器游玩，客户端无法运行。
+ 
  2.待补充，请在issue中留言或PR。[issue](https://github.com/ning-g-mo/fcl-docs/issues)

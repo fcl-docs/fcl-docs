@@ -10,7 +10,7 @@
 
 ## 渲染器列表
 
-- [holy](https://github.com/FCL-Team/Holy-GL4ES)
+- [Holy](https://github.com/FCL-Team/Holy-GL4ES)
 - [zink](https://docs.mesa3d.org/drivers/zink.html)
 - LTW
 - 待补充...
@@ -20,7 +20,7 @@
 ### 1. 性能向选择
 
 - 在1.17以下(包括1.17)版本无脑选择holy，1.17以上版本选择ltw(在有钠等有特殊情况时使用)或者holy。
-- 如果觉得还不够，你可以用[Vulkan mod](https://www.mcmod.cn/class/6626.html)(mc百科)来获得最佳帧数。
+- 如果觉得还不够，你可以用[VulkanMod](https://www.mcmod.cn/class/6626.html)(mc百科)来获得最佳帧数。(这需要你的设备支持VulkanAPI1.2+)
 
 ### 2. 兼容性向选择
 

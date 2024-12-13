@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "fcl 文档"
+  name: "Fold Craft Launcher"
   text: "fcl 启动器文档"
   tagline: 心如止水，水如无波。
   image: 

@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "fcl 文档",
+  title: "Fold Craft Launcher",
   description: "fcl启动器文档",
   lang: 'zh-CN',
   head: [
@@ -53,7 +53,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/FCL-Team/FoldCraftLauncher' }
     ],
     footer: {
-      copyright: '© 2024 @柠枺，此网站仅学习而建，请不要与fcl团队产生任何挂钩！'
+      copyright: '© 2024 @柠枺\n此网站仅学习而建，请不要与fcl团队产生任何挂钩！'
     }
   }
 })

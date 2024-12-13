@@ -12,13 +12,13 @@
 
  1. **[sodium(钠)](https://www.curseforge.com/minecraft/mc-mods/sodium)**
 
-   - 原因：由于openGL需求，无法原生状态运行在holy渲染器上。
+   - 原因：由于OpenGL需求，无法原生状态运行在Holy渲染器上。
    - 修复建议：
      - 切换至LTW(推荐)或zink(帧数较低)渲染器。
      - 使用修改后的钠。
 ::: tip 提示
-0.5以下(不包括0.5)版本原生支持holy渲染器，0.5.x版本需要修改。  
-0.6.x修复无效，仅LTW/Zink可用。
+0.5以下(不包括0.5)版本原生支持Holy渲染器，0.5.x版本需要修改。  
+0.6.x无法通过修改在Holy上运行，仅LTW/Zink可用。
 :::
 
  2. **[pixemon(>1.12.2)](https://modrinth.com/mod/pixelmon/)**

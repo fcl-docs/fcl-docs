@@ -46,8 +46,15 @@ export default defineConfig({
           { text: '崩溃处理方法', link: '/docs/crash' },
           { text: '不详细的功能介绍', link: '/docs/LATT' },
         ]
-      }
+      },
+      {
+        text: '控制布局',
+        items: [
+          { text: '如何制作控制布局', link: '/docs/cc' },
+        ]
+      },
     ],
+  
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/FCL-Team/FoldCraftLauncher' }

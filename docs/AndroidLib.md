@@ -20,7 +20,7 @@
  1. 准备好VulkanMod(VulkanMod介绍已给出下载地址)和[VulkanMod Android Lib文件](https://www.curseforge.com/minecraft/mc-mods/vulkanmod-android-libs)
  
  2. 用MT管理器在两边分别打开两个jar文件,两边都进入META-INF文件夹,然后再进入jars文件夹,将VulkanMod Android Lib那边的5个jar复制到右边(记得关自动签名)
-  - 如果想要减小文件体积,可以删除开头不是fabric的文件(先删后加,避免删错,jars文件夹中最后应剩12个文件)
+  - 如果想要减小文件体积,可以删除开头不是fabric的文件(先删后加,避免删错,这样做的话jars文件夹中最后应剩12个文件)
   
  3. 两个窗口均回到刚打开jar的目录,找到fabric.mod.json 然后打开VulkanMod Android Lib文件的fabric.mod.json     (WIP)
 

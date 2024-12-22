@@ -20,7 +20,7 @@ VulkanMod是一个强大的优化模组,
    - 原因:官方不对Android进行兼容,但提供了所需[Lib](https://www.curseforge.com/minecraft/mc-mods/sodium)
    - 修复建议：
      - 使用他人已经修改好的版本
-     - 自己修改
+     - 自己修改(提供教程)
 ::: tip 提示
 MC百科说是放在mods即可,但实际看来似乎不可行
 :::

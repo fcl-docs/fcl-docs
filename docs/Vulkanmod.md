@@ -17,7 +17,7 @@ VulkanMod是一个强大的优化模组,
 
  1. VulkanMod Android Lib缺失
 
-   - 原因:官方不对Android进行兼容,但提供了所需[Lib](https://www.curseforge.com/minecraft/mc-mods/sodium)
+   - 原因:官方不对Android进行兼容,但提供了所需[Lib](https://www.curseforge.com/minecraft/mc-mods/vulkanmod-android-libs)
    - 修复建议：
      - 使用他人已经修改好的版本
      - 自己修改(提供教程)

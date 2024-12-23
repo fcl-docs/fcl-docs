@@ -25,4 +25,12 @@
  3. 两个窗口均回到刚打开jar的目录,找到fabric.mod.json 然后打开VulkanMod Android Lib文件的fabric.mod.json     (WIP)
 
  
+---
 
+## 署名
+
+**编辑作者：** [空心](https://github.com/KongXing0819)  
+**QQ：** 1902002294  
+**邮箱：** 1902002294@qq.com  
+**创建时间：** 2024.12.22  
+**修改时间：** 2024.12.23  

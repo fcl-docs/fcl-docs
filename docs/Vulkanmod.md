@@ -10,7 +10,7 @@ VulkanMod是一个强大的优化模组,让Minecraft使用Vulkan渲染，而不�
 使在手机上运行Minecraft:Java Edition时,有高效的GPU资源利用  
 同时避免消耗在使用渲染器时转译浪费的CPU资源  
 
-相关链接
+##相关链接
 
  - **[MC百科](https://www.mcmod.cn/class/6626.html)**
  - **[Modrinth下载](https://modrinth.com/mod/vulkanmod)**
@@ -32,10 +32,12 @@ MC百科说是放在mods即可,但实际看来似乎不可行
  - 原因:个人设备问题
  - 修复建议：
   - 换手机
+  - Adreno6xx/xx可尝试Root后刷入Turnip Vulkan驱动(或许你可以去请教一下Con佬)
 ::: tip 提示
-骁龙GPU(Adreno)6xx/7xx一般支持Turnip驱动，支持1.3(1.4,目前仅限7xx,启动器暂未更新到该版本Turnip)
-!!!不是SOC(芯片)型号
-!!!不是SOC(芯片)型号
+骁龙GPU(Adreno)6xx/7xx一般支持Turnip驱动，支持1.3(1.4,目前仅限7xx,启动器暂未更新到该版本Turnip)  
+骁龙启动时一般使用启动器中的Turnip驱动,如果要使用系统/刷入的驱动,请打开"允许Zink使用系统Vulkan驱动"  
+!!!不是SOC(芯片)型号  
+!!!不是SOC(芯片)型号  
 !!!不是SOC(芯片)型号
 :::
 ---

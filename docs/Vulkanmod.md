@@ -32,7 +32,7 @@ MC百科说是放在mods即可,但实际看来似乎不可行
  - 原因:个人设备问题
  - 修复建议：
   - 换手机
-  - Adreno6xx/xx可尝试Root后刷入Turnip Vulkan驱动(或许你可以去请教一下Con佬)
+  - Adreno6xx/7xx可尝试Root后刷入Turnip Vulkan驱动(或许你可以去请教一下Con佬)
 ::: tip 提示
 骁龙GPU(Adreno)6xx/7xx一般支持Turnip驱动，支持1.3(1.4,目前仅限7xx,启动器暂未更新到该版本Turnip)  
 骁龙启动时一般使用启动器中的Turnip驱动,如果要使用系统/刷入的驱动,请打开"允许Zink使用系统Vulkan驱动"  

@@ -50,7 +50,7 @@ export default defineConfig({
       {
         text: '控制布局',
         items: [
-          { text: '如何制作控制布局', link: '/docs/cc' },
+          { text: '控件上传', link: '/docs/cc' },
         ]
       },
       {

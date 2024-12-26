@@ -25,6 +25,9 @@ export default defineConfig({
           { text: '禁忌的模组', link: '/docs/mods' },
           { text: '崩溃处理方法', link: '/docs/crash' },
           { text: '不详细的功能介绍', link: '/docs/LATT' },
+          { text: '控制布局', link: '/docs/cc' },
+          { text: 'Vulkan mod', link: '/docs/Vulkanmod' },
+          { text: 'Android Lib', link: '/docs/AndroidLib' },
         ]
        },
     ],

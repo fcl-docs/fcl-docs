@@ -10,7 +10,7 @@ VulkanMod是一个强大的优化模组,让Minecraft使用Vulkan渲染，而不�
 使在手机上运行Minecraft:Java Edition时,有高效的GPU资源利用  
 同时避免消耗在使用渲染器时转译浪费的CPU资源  
 
-##相关链接
+## 相关链接
 
  - **[MC百科](https://www.mcmod.cn/class/6626.html)**
  - **[Modrinth下载](https://modrinth.com/mod/vulkanmod)**

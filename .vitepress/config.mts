@@ -6,7 +6,7 @@ export default defineConfig({
   description: "fcl启动器文档",
   lang: 'zh-CN',
   head: [
-    ['link', { rel: 'icon', href: '/fcl-logo.png' }]
+    ['link', { rel: 'icon', href: '/fcl_logo.png' }]
   ], 
   
   themeConfig: {

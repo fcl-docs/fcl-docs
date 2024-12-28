@@ -69,6 +69,7 @@ export default defineConfig({
         items: [
           { text: 'Vulkan mod', link: '/docs/Vulkanmod' },
           { text: 'Android Lib', link: '/docs/AndroidLib' },
+          { text: 'VulkanAPI', link: '/docs/VulkanAPI-check' },
         ]
       },
     ],

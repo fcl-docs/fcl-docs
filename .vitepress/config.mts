@@ -29,7 +29,7 @@ export default defineConfig({
           { text: 'Vulkan mod', link: '/docs/Vulkanmod' },
           { text: 'Android Lib', link: '/docs/AndroidLib' },
           { text: '插件', link: '/docs/plugins' },
-          { text: 'VulkanAPI', link: '/docs/VulkanAPI-check' },
+          { text: 'VulkanAPI', link: '/docs/VulkanAPI-Check' },
         ]
        },
     ],
@@ -69,7 +69,7 @@ export default defineConfig({
         items: [
           { text: 'Vulkan mod', link: '/docs/Vulkanmod' },
           { text: 'Android Lib', link: '/docs/AndroidLib' },
-          { text: 'VulkanAPI', link: '/docs/VulkanAPI-check' },
+          { text: 'VulkanAPI', link: '/docs/VulkanAPI-Check' },
         ]
       },
     ],

@@ -43,13 +43,18 @@ export default defineConfig({
         ]
       },
       {
-        text: '详细文档',
+        text: '启动器',
         items: [
           { text: '介绍', link: '/docs/intro' },
           { text: '渲染器', link: '/docs/GL' },
+          { text: '不详细的功能介绍', link: '/docs/LATT' },
+        ]
+      },
+      {
+        text: '崩溃处理',
+        items: [
           { text: '禁忌的模组', link: '/docs/mods' },
           { text: '崩溃处理方法', link: '/docs/crash' },
-          { text: '不详细的功能介绍', link: '/docs/LATT' },
         ]
       },
       {

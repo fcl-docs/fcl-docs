@@ -29,4 +29,52 @@
  - 原因：硬件兼容性问题。
  - 修复建议：可用服务器游玩，客户端无法运行。
 
- 2.待补充，请在issue中留言或PR。[issue](https://github.com/ning-g-mo/fcl-docs/issues)
+ 4.**[creata(机械动力)](https://modrinth.com/mod/create)**
+ - 原因：暂且未知。
+ - 修复建议：GL4ES渲染上需要adreno GPU。部分版本需要使用修改/补丁。
+
+ 5.**[modern UI(现代化UI)](https://modrinth.com/mod/modern-ui)**
+ - 原因：不稳定。
+ - 修复建议：删除。
+
+ 6.**[IMBlocker(输入法冲突修复)](https://modrinth.com/mod/imblocker-original)**
+ - 原因：需要调用Windows的部分库。
+ - 修复建议：删除。
+
+ 7.**[yes steve mobel(是。史蒂夫模型！)](https://modrinth.com/mod/yes-steve-model)**
+ - 原因：新版本只能在X86_64设备上运行。
+ - 修复建议：使用老版本或换设备。
+
+ 8.**[Controllable(手柄控制)](https://www.mcmod.cn/class/1971.html)**
+ - 原因：不支持。
+ - 修复建议：删除。
+
+ 9.**[Avaritia(无尽贪婪)](https://www.mcmod.cn/class/505.html)**
+ - 原因：无法在1.12.2以上版本运行。
+ - 修复建议：删除。
+
+ 10.**[Dynamic Surroundings(动态环境/动态环绕)](https://modrinth.com/mod/dynamicsurroundingsfabric)**
+ - 原因：渲染错误。
+ - 修复建议：删除。
+
+ 11.**[RandomPatches(随意修复)](https://modrinth.com/mod/randompatches)**
+ - 原因：渲染错误。
+ - 修复建议：删除。
+
+ 12.**[WebDisplays(内置网页浏览器)](https://modrinth.com/mod/webdisplays)**
+ - 原因：无法渲染网页。
+ - 修复建议：可删除。
+
+ 13.**[In-game Browser(游戏内浏览器)](https://www.mcmod.cn/class/4680.html)**
+ - 原因：无法使用。
+ - 修复建议：可删除。
+
+ 14.**[Physics Mod(物理模组)](https://modrinth.com/mod/physicsmod)**
+ - 原因：硬件兼容性问题。
+ - 修复建议：替换文件(使用魔改版模组文件)，B站有详细教程。
+
+ 15.**[Vulkan Mod(Vulkan模组)](https://www.mcmod.cn/class/6626.html)**
+ - 原因：系统Vulkan API兼容性问题。
+ - 修复建议：请查看本站文档: [Vulkan Mod](https://docs.ningmo.fun/docs/Vulkanmod.html)
+
+ ## 待补充，请在issue中留言或PR。[issue](https://github.com/ning-g-mo/fcl-docs/issues)

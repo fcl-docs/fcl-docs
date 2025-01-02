@@ -9,13 +9,13 @@
 ## 插件列表
 
 1. **[Krypton Wrapper](https://ng-gl4es.bzlzhh.top/)**  
-     **图标**: ![Krypton](img/dplugins/gl4es.png)  
+     **图标**: 不便展示。  
      **作者**: [BZLZHH](https://github.com/BZLZHH)  
      **类型**: 渲染器  
      **描述**: Krypton Wrapper (之前是NG-GL4ES) 是从 [gl4es-114-extra](https://github.com/PojavLauncherTeam/gl4es-114-extra) 分支出来的。  
      该项目旨在支持更多的 OpenGL 函数。  
      **注意事项**: 请访问 [GitHub](https://github.com/BZLZHH/NG-GL4ES)  
-     **下载链接**: [https://github.com/BZLZHH/built-applications/tree/main/app/ngg](https://github.com/BZLZHH/built-applications/tree/main/app/ngg)
+     **下载链接**: [https://ng-gl4es.bzlzhh.top/](https://ng-gl4es.bzlzhh.top/)
 
 2. **暂无**  
     欢迎提交PR或[issue](https://github.com/ning-g-mo/fcl-docs/issues)

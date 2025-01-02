@@ -1,3 +1,11 @@
+name: npm run docs:build
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
 #file:E:\xiangmu\fcl-docs-main\.github\workflows\npm-run-docs_build.yml
 
 jobs:
@@ -35,4 +43,3 @@ jobs:
       with:
         name: dist-files
         path: .vitepress/dist/
-

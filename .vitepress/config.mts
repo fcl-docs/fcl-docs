@@ -28,7 +28,8 @@ export default defineConfig({
           { text: '控制布局', link: '/docs/cc' },
           { text: 'Vulkan mod', link: '/docs/Vulkanmod' },
           { text: 'Android Lib', link: '/docs/AndroidLib' },
-          { text: '插件', link: '/docs/plugins' },
+          { text: '官方插件', link: '/docs/plugins' },
+          { text: '第三方插件', link: '/docs/dplugins' },
           { text: 'VulkanAPI', link: '/docs/VulkanAPI-Check' },
         ]
        },
@@ -67,6 +68,7 @@ export default defineConfig({
         text: '插件',
         items: [
           { text: '官方插件', link: '/docs/plugins' },
+          { text: '第三方插件', link: '/docs/dplugins' },
         ]
       },
       {

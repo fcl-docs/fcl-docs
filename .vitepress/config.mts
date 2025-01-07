@@ -25,12 +25,15 @@ export default defineConfig({
           { text: '禁忌的模组', link: '/docs/mods' },
           { text: '崩溃处理方法', link: '/docs/crash' },
           { text: '不详细的功能介绍', link: '/docs/LATT' },
-          { text: '控制布局', link: '/docs/cc' },
+          { text: '上传布局', link: '/docs/cc' },
           { text: 'Vulkan mod', link: '/docs/Vulkanmod' },
           { text: 'Android Lib', link: '/docs/AndroidLib' },
           { text: '官方插件', link: '/docs/plugins' },
           { text: '第三方插件', link: '/docs/dplugins' },
           { text: 'VulkanAPI', link: '/docs/VulkanAPI-Check' },
+          { text: 'Vulkan版本查看', link: '/docs/VulkanMod-Done' },
+          { text: '关于本站', link: '/about' },
+          { text: 'README', link: '/README' },
         ]
        },
     ],
@@ -77,6 +80,14 @@ export default defineConfig({
           { text: 'Vulkan mod', link: '/docs/Vulkanmod' },
           { text: 'Android Lib', link: '/docs/AndroidLib' },
           { text: 'VulkanAPI', link: '/docs/VulkanAPI-Check' },
+          { text: 'Vulkan版本查看', link: '/docs/VulkanMod-Done' },
+        ]
+      },
+      {
+        text: '关于本站',
+        items: [
+          { text: 'README', link: '/README' },
+          { text: '关于本站', link: '/about' },
         ]
       },
     ],

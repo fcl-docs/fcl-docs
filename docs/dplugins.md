@@ -12,9 +12,9 @@
      **图标**: 不便展示。  
      **作者**: [BZLZHH](https://github.com/BZLZHH)  
      **类型**: 渲染器  
-     **描述**: Krypton Wrapper (之前是NG-GL4ES) 是从 [gl4es-114-extra](https://github.com/PojavLauncherTeam/gl4es-114-extra) 分支出来的。  
-     该项目旨在支持更多的 OpenGL 函数。  
-     **注意事项**: 请访问 [GitHub](https://github.com/BZLZHH/NG-GL4ES)  
+     **描述**: Krypton Wrapper *(也叫做Next Generation GL4ES/NG-GL4ES)* 是一个基于 [gl4es-114-extra](https://github.com/PojavLauncherTeam/gl4es-114-extra) 的项目。  
+     此项目支持更多的 OpenGL 函数并修复原项目的部分漏洞。
+     **注意事项**: 请访问 [GitHub/NG-GL4ES](https://github.com/BZLZHH/NG-GL4ES)  
      **下载链接**: [https://ng-gl4es.bzlzhh.top/](https://ng-gl4es.bzlzhh.top/)
 
 2. **暂无**  

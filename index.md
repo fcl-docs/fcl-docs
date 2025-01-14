@@ -18,6 +18,10 @@ hero:
       text: 快速入门
       link: /docs/intro.md
 
+    - theme: alt
+      text: 下载渲染器
+      link: /plugins.md
+
 features:
   - title: 简洁
     details: 启动器没有繁琐的设置，只需要简单的一步步操作即可快速启动

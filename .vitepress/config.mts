@@ -17,6 +17,7 @@ export default defineConfig({
     nav: [
       { text: '文档首页', link: '/' },
       { text: '下载安装', link: '/download' },
+      { text: '渲染器插件', link: '/plugins' },
       { text: '快速入门', link: '/docs/intro' },
       { text: '详细文档', 
         items: [

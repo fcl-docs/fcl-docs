@@ -8,14 +8,20 @@
 
 ## 插件列表
 
-1. **[Krypton Wrapper](https://ng-gl4es.bzlzhh.top/)**  
-     **图标**: 不便展示。  
-     **作者**: [BZLZHH](https://github.com/BZLZHH)  
-     **类型**: 渲染器  
-     **描述**: Krypton Wrapper *(也叫做Next Generation GL4ES/NG-GL4ES)* 是一个基于 [gl4es-114-extra](https://github.com/PojavLauncherTeam/gl4es-114-extra) 的项目。  
+1. **[Krypton Wrapper](https://ng-gl4es.bzlzhh.top/)**
+
+     **图标**: 暂无
+   
+     **作者**: **BZLZHH** ([Github/BZLZHH](https://github.com/BZLZHH), [Bilibili/BZLZHH](https://space.bilibili.com/477062582))
+   
+     **类型**: 渲染器
+   
+     **描述**: **Krypton Wrapper** *(也叫做 Next Generation GL4ES / NG-GL4ES)* 是一个基于 [gl4es-114-extra](https://github.com/PojavLauncherTeam/gl4es-114-extra) 的项目。  
      此项目支持更多的 OpenGL 函数并修复原项目的部分漏洞。
-     **注意事项**: 请访问 [GitHub/NG-GL4ES](https://github.com/BZLZHH/NG-GL4ES)  
-     **下载链接**: [https://ng-gl4es.bzlzhh.top/](https://ng-gl4es.bzlzhh.top/)
+
+     **注意事项**: 请访问 [GitHub/NG-GL4ES](https://github.com/BZLZHH/NG-GL4ES)
+   
+     **下载链接**: 见 [ng-gl4es.bzlzhh.top](https://ng-gl4es.bzlzhh.top/)
 
 2. **暂无**  
     欢迎提交PR或[issue](https://github.com/ning-g-mo/fcl-docs/issues)

@@ -98,7 +98,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/FCL-Team/FoldCraftLauncher' }
     ],
     footer: {
-      copyright: '© 2024 @柠枺 此站非官方文档，请不要与fcl团队产生任何挂钩！<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">新ICP备2024015133号-2</a>'
+      copyright: '© 2024-2025 @柠枺 此站非官方文档，请不要与fcl团队产生任何挂钩！<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">新ICP备2024015133号-2</a>'
     }
   }
 })

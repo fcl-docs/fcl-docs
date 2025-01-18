@@ -24,9 +24,9 @@
 
 1. 使用Device info (HW)
 打开“芯片”页,找到“Vulkan”一行,后面的数字即为支持的Vulkan大版本
-2. 使用[**VulakanCapsviewer**](https://vulkan.gpuinfo.org/downloads/vulkancapsviewer_3.43_arm.apk)
+2. 使用[**VulakanCapsviewer**](https://vulkan.gpuinfo.org/downloads/vulkancapsviewer_4.00_arm.apk)
 首页找到“apiVersion”后面的数字即为支持的Vulkan详细版本
-##进阶版
+## 进阶版
 使用(Zero/U)Termux
 推荐已经有Termux软件/骁龙检查Turnip兼容性
 进入后运行以下命令(推荐先换清华源)

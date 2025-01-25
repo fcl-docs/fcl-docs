@@ -10,13 +10,13 @@
 
 1. **[Krypton Wrapper](https://ng-gl4es.bzlzhh.top/)**
 
-     **图标**: 暂无
+     **图标**: ![NG-GL4ES](img/dplugins/NG-GL4ES.png)
    
      **作者**: **BZLZHH** ([Github/BZLZHH](https://github.com/BZLZHH), [Bilibili/BZLZHH](https://space.bilibili.com/477062582))
    
      **类型**: 渲染器
    
-     **描述**: **Krypton Wrapper** *(也叫做 Next Generation GL4ES / NG-GL4ES)* 是一个基于 [gl4es-114-extra](https://github.com/PojavLauncherTeam/gl4es-114-extra) 的项目。  
+     **描述**: **Krypton Wrapper** *(也叫做 Next Generation GL4ES / NG-GL4ES)* 是一个基于 [gl4es](https://github.com/ptitSeb/gl4es) 和 [gl4es-114-extra](https://github.com/PojavLauncherTeam/gl4es-114-extra) 的项目。  
      此项目支持更多的 OpenGL 函数并修复原项目的部分漏洞。
 
      **注意事项**: 请访问 [GitHub/NG-GL4ES](https://github.com/BZLZHH/NG-GL4ES)

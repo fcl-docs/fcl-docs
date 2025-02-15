@@ -27,6 +27,7 @@ export default defineConfig({
           { text: '崩溃处理方法', link: '/docs/crash' },
           { text: '不详细的功能介绍', link: '/docs/LATT' },
           { text: '上传布局', link: '/docs/cc' },
+          { text: '创建新键位', link: '/docs/nc' },
           { text: 'Vulkan mod', link: '/docs/Vulkanmod' },
           { text: 'Android Lib', link: '/docs/AndroidLib' },
           { text: '官方插件', link: '/docs/plugins' },

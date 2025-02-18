@@ -38,7 +38,9 @@ A potential solution has been determined, this may resolve your problem:
 这些可以让你知道你应该安装modid为fabric-language-kotlin且版本号大于1.13.0+kotlin.2.1.0的mod
 不过我更推荐你看下面的部分(举例)
 ::: tip 例子
-	 - Mod 'libIPN' (libipn) 6.2.1 requires version 1.11.0+kotlin.2.0.0 or later of fabric-language-kotlin, which is missing!
+	 - Mod 'libIPN' (libipn) 6.2.1 requires version (换行)
+           1.11.0+kotlin.2.0.0 or later of (换行)
+           fabric-language-kotlin, which is missing!
 :::
 这个的意思是modid为libIPN的Mod要求modid为fabric-language-kotlin且版本号大于1.13.0+kotlin.2.0.0的mod
 ### (Neo)Forge

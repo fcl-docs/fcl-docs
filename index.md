@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 立即安装
-      link: /download.md
+      link: /docs/download.md
 
     - theme: alt
       text: 快速入门
@@ -20,7 +20,7 @@ hero:
 
     - theme: alt
       text: 下载渲染器
-      link: /plugins.md
+      link: /docs/plugins.md
 
 features:
   - title: 简洁

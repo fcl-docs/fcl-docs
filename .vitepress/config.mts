@@ -16,25 +16,26 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '文档首页', link: '/' },
-      { text: '下载安装', link: '/download' },
-      { text: '渲染器插件', link: '/plugins' },
+      { text: '下载安装', link: '/docs/download' },
+      { text: '渲染器插件', link: '/docs/plugins' },
       { text: '快速入门', link: '/docs/intro' },
       { text: '详细文档', 
         items: [
           { text: '介绍', link: '/docs/intro' },
-          { text: '渲染器', link: '/docs/GL' },
-          { text: '禁忌的模组', link: '/docs/mods' },
-          { text: '崩溃处理方法', link: '/docs/crash' },
-          { text: '不详细的功能介绍', link: '/docs/LATT' },
-          { text: '上传布局', link: '/docs/cc' },
-          { text: '创建新键位', link: '/docs/nc' },
-          { text: 'Vulkan mod', link: '/docs/Vulkanmod' },
-          { text: 'Android Lib', link: '/docs/AndroidLib' },
-          { text: '官方插件', link: '/docs/plugins' },
-          { text: '第三方插件', link: '/docs/dplugins' },
-          { text: 'VulkanAPI', link: '/docs/VulkanAPI-Check' },
-          { text: '“成品VulkanMod', link: '/docs/VulkanMod-Done' },
-          { text: '关于本站', link: '/about' },
+          { text: '渲染器', link: '/docs/launcher/GL' },
+          { text: '禁忌的模组', link: '/docs/crash/mods' },
+          { text: '崩溃处理方法', link: '/docs/crash/crash' },
+          { text: '一部分崩溃的处理方式', link: '/docs/crash/crash-kx' },
+          { text: '不详细的功能介绍', link: '/docs/launcher/LATT' },
+          { text: '上传布局', link: '/docs/controler/cc' },
+          { text: '创建新键位', link: '/docs/controler/nc' },
+          { text: 'Vulkan mod', link: '/docs/vulkan/Vulkanmod' },
+          { text: 'Android Lib', link: '/docs/vulkan/AndroidLib' },
+          { text: '官方插件', link: '/docs/plugins/plugins' },
+          { text: '衍生插件', link: '/docs/plugins/dplugins' },
+          { text: 'VulkanAPI', link: '/docs/vulkan/VulkanAPI-Check' },
+          { text: '成品VulkanMod', link: '/docs/vulkan/VulkanMod-Done' },
+          { text: '关于本站', link: '/docs/about' },
           { text: 'README', link: '/README' },
         ]
        },
@@ -44,7 +45,7 @@ export default defineConfig({
       {
         text: '开始',
         items: [
-          { text: '下载安装', link: '/download' },
+          { text: '下载安装', link: '/docs/download' },
           { text: '快速入门', link: '/docs/intro' }
         ]
       },
@@ -52,44 +53,46 @@ export default defineConfig({
         text: '启动器',
         items: [
           { text: '介绍', link: '/docs/intro' },
-          { text: '渲染器', link: '/docs/GL' },
-          { text: '不详细的功能介绍', link: '/docs/LATT' },
+          { text: '渲染器', link: '/docs/launcher/GL' },
+          { text: '不详细的功能介绍', link: '/docs/launcher/LATT' },
+          { text: '一部分崩溃的处理方式', link: '/docs/crash/crash-kx' }
         ]
       },
       {
         text: '崩溃处理',
         items: [
-          { text: '禁忌的模组', link: '/docs/mods' },
-          { text: '崩溃处理方法', link: '/docs/crash' },
+          { text: '禁忌的模组', link: '/docs/crash/mods' },
+          { text: '崩溃处理方法', link: '/docs/crash/crash' },
         ]
       },
       {
         text: '控制布局',
         items: [
-          { text: '控件上传', link: '/docs/cc' },
+          { text: '控件上传', link: '/docs/controler/cc' },
+          { text: '创建新键位', link: '/docs/controler/nc' },
         ]
       },
       {
         text: '插件',
         items: [
-          { text: '官方插件', link: '/docs/plugins' },
-          { text: '第三方插件', link: '/docs/dplugins' },
+          { text: '官方插件', link: '/docs/plugins/plugins' },
+          { text: '衍生插件', link: '/docs/plugins/dplugins' },
         ]
       },
       {
         text: 'Vulkan mod',
         items: [
-          { text: 'Vulkan mod', link: '/docs/Vulkanmod' },
-          { text: 'Android Lib', link: '/docs/AndroidLib' },
-          { text: 'VulkanAPI', link: '/docs/VulkanAPI-Check' },
-          { text: '“成品VulkanMod', link: '/docs/VulkanMod-Done' },
+          { text: 'Vulkan mod', link: '/docs/vulkan/Vulkanmod' },
+          { text: 'Android Lib', link: '/docs/vulkan/AndroidLib' },
+          { text: 'VulkanAPI', link: '/docs/vulkan/VulkanAPI-Check' },
+          { text: '成品VulkanMod', link: '/docs/vulkan/VulkanMod-Done' },
         ]
       },
       {
         text: '关于本站',
         items: [
           { text: 'README', link: '/README' },
-          { text: '关于本站', link: '/about' },
+          { text: '关于本站', link: '/docs/about' },
         ]
       },
     ],

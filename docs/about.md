@@ -12,4 +12,4 @@
 
 ### 赞助
 下载站流量一直在亏，以至于现在直连用上了cf减速器，赞助我为直连下载供能。
-![二维码](/docs/img/readme/weichat.jpg)
+![二维码](/img/readme/weichat.jpg)

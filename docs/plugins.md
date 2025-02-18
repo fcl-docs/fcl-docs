@@ -1,46 +1,49 @@
-<h1 align="center">fcl官方插件</h1>
+# FCL 启动器渲染器下载
 
-## 前言
+欢迎访问FCL启动器渲染器下载页面。在这里，您可以找到适用于不同需求的渲染器。  
+请根据您的需求选择合适的渲染器进行下载。
 
-> 插件是fcl官方提供的渲染器/驱动接口，用于部分模组或其他功能的补丁与优化支持。
+## 渲染器列表
 
-## 特别提醒
-::: danger 警告
-在1.1.9.6版本存在恶性bug，在已经安装了插件的情况下，运行jar功能后会崩溃，请更新以避免此问题。  
-原因如图:
-![原因](img/plugins/yy.png)
-:::
+### **ANGLE.Renderer**
+- **描述**: 暂无
+- **要求**: 1.17 以上版本
+- **OpenGL版本**: ~3.2
+- **开源链接**: [Github/angle-gles](https://github.com/FCL-Team/angle-gles)
 
-## 插件列表
-**1.旧版holy**  
-  > 描述:可以游玩1.16.5的机械动力模组。
-  当前版本:1.0  
-  类型:渲染器  
-  下载:  
-  [直接下载](https://docs.ningmo.fun/d/plugins/旧版holy.apk)|[123云盘](https://www.123684.com/s/zcTSVv-1AYO3)  
+### **GL4ES.Plus**
+- **描述**: 基于holy渲染器的渲染器，旨在实现更多的OpenGL功能，支持钠等模组。
+- **要求**: 全版本
+- **OpenGL版本**: 2.1+
 
-**2.ANGLE**
-> 描述:暂无描述。  
-  当前版本:1.0  
-  类型:渲染器  
-  下载:  
-  [直接下载](https://docs.ningmo.fun/d/plugins/ANGLE.apk)|[123云盘](https://www.123684.com/s/zcTSVv-1AYO3)
+### **Legacy.Holy.GL4ES**
+- **描述**: Holy-GL4ES 的旧版本，可能在一些方面兼容性优于 Holy-GL4ES 新版本。
+- **要求**: 全版本
+- **OpenGL版本**: 2.1+
+- **开源链接** *(可能)*: [Github/gl4es-114-extra](https://github.com/PojavLauncherTeam/gl4es-114-extra)
 
-**3.Turnip**
-> 描述:暂无描述。  
-  当前版本:23.2.0  
-  类型:驱动  
-  下载:  
-  [直接下载](https://docs.ningmo.fun/d/plugins/Turnip_23.2.0.apk)|[123云盘](https://www.123684.com/s/zcTSVv-1AYO3)
+### **LTW**
+- **描述**: 效率高，holy候选渲染器。此为旧版本  LTW。
+- **要求**: 1.17 以上版本
+- **OpenGL版本**: ~3.2(+)
 
-**4.Turnip**
-> 描述:暂无描述。  
-  当前版本:24.3.2  
-  类型:驱动
-  下载:  
-  [直接下载](https://docs.ninhmo.fun/d/plugins/Turnip_24.3.2.apk)|[123云盘](https://www.123684.com/s/zcTSVv-1AYO3)
+### **LTW.New**
+- **描述**: LTW 新版本。
+- **要求**: 1.17 以上版本
+- **OpenGL版本**: ~3.2(+)
+
+### **Zink.Mesa25**
+- **描述**: 兼容性强，效率中等，光影用这个就对了。
+- **要求**: 全版本
+- **OpenGL版本**: 4.6
 
 ## 安装方法
-1.下载插件，安装。  
-2.检查是否已给fold craft launcher获取应用列表权限。  
-3.重启FCL，完成。
+
+1. 要下载一个压缩包，建议备一个mt管理器等文件管理器。
+2. 下载完成后，通过文件管理器打开压缩包，解压出文件夹。
+3. 安装所需要的插件。
+4. 给启动器读取应用列表权限。
+
+下载链接:
+
+[下载站](https://fcl.ningmo.fun/d/fcl渲染器插件.zip)

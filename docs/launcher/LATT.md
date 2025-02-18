@@ -21,12 +21,12 @@ FCL左侧栏包含以下主要功能按键:
 
 | 按键 | 图标 | 功能 |
 |------|------|------|
-| 首页 | ![首页](img/fcl_home.svg) | 返回启动器主页面 |
-| 游戏管理 | ![游戏管理](img/fcl_configuration.svg) | 管理游戏版本和模组 |
-| 下载资源 | ![下载资源](img/fcl_download.svg) | 下载游戏资源文件 |
-| 布局管理 | ![布局管理](img/fcl_push_button.svg) | 管理游戏控制布局 |
-| 启动器设置 | ![启动器设置](img/fcl_settings.svg) | 配置启动器选项 |
-| 返回 | ![返回](img/fcl_return.svg) | 返回上一级/退出 |
+| 首页 | ![首页](/img/LATT/fcl_home.svg) | 返回启动器主页面 |
+| 游戏管理 | ![游戏管理](/img/LATT/fcl_configuration.svg) | 管理游戏版本和模组 |
+| 下载资源 | ![下载资源](/img/LATT/fcl_download.svg) | 下载游戏资源文件 |
+| 布局管理 | ![布局管理](/img/LATT/fcl_push_button.svg) | 管理游戏控制布局 |
+| 启动器设置 | ![启动器设置](/img/LATT/fcl_settings.svg) | 配置启动器选项 |
+| 返回 | ![返回](/img/LATT/fcl_return.svg) | 返回上一级/退出 |
 
 ## 游戏管理
 

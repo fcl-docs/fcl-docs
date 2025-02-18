@@ -13,6 +13,17 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
+    editLink: {
+      pattern: 'https://github.com/ning-g-mo/fcl-docs/:path',
+      text: '在 GitHub 上编辑此页'
+    },
+    lastUpdated: {
+      text: '上次更新',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium'
+      }
+    },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '文档首页', link: '/' },

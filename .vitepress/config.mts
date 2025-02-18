@@ -55,7 +55,6 @@ export default defineConfig({
           { text: '介绍', link: '/docs/intro' },
           { text: '渲染器', link: '/docs/launcher/GL' },
           { text: '不详细的功能介绍', link: '/docs/launcher/LATT' },
-          { text: '一部分崩溃的处理方式', link: '/docs/crash/crash-kx' }
         ]
       },
       {
@@ -63,6 +62,7 @@ export default defineConfig({
         items: [
           { text: '禁忌的模组', link: '/docs/crash/mods' },
           { text: '崩溃处理方法', link: '/docs/crash/crash' },
+          { text: '一部分崩溃的处理方式', link: '/docs/crash/crash-kx' }
         ]
       },
       {

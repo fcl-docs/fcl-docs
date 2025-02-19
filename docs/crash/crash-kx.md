@@ -26,26 +26,28 @@ AI仅供**参考**,AI可能会提出一个**错误**的解决关式
 - 如果你把文化发给AI,它们通常会告诉你LWJGL版本不匹配,请忽略,因为很少出现由LWJGL引起的崩溃
 ## 关于Mod间不兼容/前置缺失
 ### Fabric
-当遇到Mod间不兼容/前置缺失时
-Fabric在电脑上弹窗告诉你
-但在手机上不会
-这需要你去查看log的相应部分
+当遇到Mod间不兼容/前置缺失时  
+Fabric在电脑上弹窗告诉你  
+但在手机上不会  
+这需要你去查看log的相应部分  
 结构通常如下(举例)
 ::: tip 例子
 A potential solution has been determined, this may resolve your problem:  
 	 - Install fabric-language-kotlin, version 1.13.0+kotlin.2.1.0 or later.
 :::
-这些可以让你知道你应该安装modid为fabric-language-kotlin且版本号大于1.13.0+kotlin.2.1.0的mod
+这些可以让你知道你应该安装modid为fabric-language-kotlin且版本号大于1.13.0+kotlin.2.1.0的mod  
 不过我更推荐你看下面的部分(举例)
 ::: tip 例子
-	 - Mod 'libIPN' (libipn) 6.2.1 requires version 1.11.0+kotlin.2.0.0 or later of fabric-language-kotlin, which is missing!
+	 - Mod 'libIPN' (libipn) 6.2.1 requires version (换行)
+     1.11.0+kotlin.2.0.0 or later of (换行)
+     fabric-language-kotlin, which is missing!
 :::
 这个的意思是modid为libIPN的Mod要求modid为fabric-language-kotlin且版本号大于1.13.0+kotlin.2.0.0的mod
 ### (Neo)Forge
-Forge和NeoForge对于Mod间不兼容/前置缺失的处理有点反人类
-通常要你浪费个1-2分钟甚至3-4分钟才会弹出错误界面告诉你
-Forge和NeoForge应为有相应界面
-通常更好判断,在崩溃界面黄色高亮的字就是缺少的Mod的modid
+Forge和NeoForge对于Mod间不兼容/前置缺失的处理有点反人类  
+通常要你浪费个1-2分钟甚至3-4分钟才会弹出错误界面告诉你  
+Forge和NeoForge应为有相应界面  
+通常更好判断,在崩溃界面黄色高亮的字就是缺少的Mod的modid  
 ### 追加
 ::: warning 特殊情况
 有些mod可能会指定某一Mod特定的一个版本(如0.5.11)或一个版本集(如0.6.x),也可能是要求版本小于某个版本,如果你不能判断,可以复制到翻译软件/网站上翻译

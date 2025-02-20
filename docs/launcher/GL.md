@@ -38,4 +38,4 @@
 
 待补充...
 
-如有建议或问题，欢迎提交issue或pr。仓库地址：[https://github.com/ning-g-mo/fcl-docs](https://github.com/ning-g-mo/fcl-docs)
+如有建议或问题，欢迎提交issue或pr。仓库地址：[https://github.com/fcl-docs/fcl-docs](https://github.com/fcl-docs/fcl-docs)

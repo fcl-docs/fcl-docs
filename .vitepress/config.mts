@@ -15,7 +15,7 @@ export default defineConfig({
       provider: 'local'
     },
     editLink: {
-      pattern: 'https://github.com/ning-g-mo/fcl-docs/:path',
+      pattern: 'https://github.com/fcl-docs/fcl-docs/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页'
     },
     lastUpdated: {

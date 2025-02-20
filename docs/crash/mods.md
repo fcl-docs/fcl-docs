@@ -77,4 +77,4 @@
  - 原因：系统Vulkan API兼容性问题。
  - 修复建议：请查看本站文档: [Vulkan Mod](https://docs.ningmo.fun/docs/Vulkanmod.html)
 
- ## 待补充，请在issue中留言或PR。[issue](https://github.com/ning-g-mo/fcl-docs/issues)
+ ## 待补充，请在issue中留言或PR。[issue](https://github.com/fcl-docs/fcl-docs/issues)

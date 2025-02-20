@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Fold Craft Launcher",
   description: "fcl启动器文档",
   lang: 'zh-CN',
+  base: '/',
   head: [
     ['link', { rel: 'icon', href: '/fcl_logo.png' }]
   ], 

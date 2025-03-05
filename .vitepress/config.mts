@@ -4,8 +4,10 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Fold Craft Launcher",
   description: "fcl启动器文档",
+  sitemap: {
+    hostname: 'https://docs.ningmo.fun'
+  },
   lang: 'zh-CN',
-  base: '/fcl-docs/',
   head: [
     ['link', { rel: 'icon', href: '/fcl_logo.png' }]
   ], 

@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Fold Craft Launcher",
   description: "fcl启动器文档",
-  lang: 'zh_CN',
+  lang: 'zh-CN',
   base: '/fcl-docs/',
   head: [
     ['link', { rel: 'icon', href: '/fcl_logo.png' }]
@@ -14,6 +14,13 @@ export default defineConfig({
     search: {
       provider: 'local'
     },
+    docFooter: {
+      prev: '上一篇',
+      next: '下一篇'
+      },
+    darkModeSwitchLabel: '外观',
+    returnToTopLabel: '返回顶部',
+    sidebarMenuLabel: '菜单',
     editLink: {
       pattern: 'https://github.com/fcl-docs/fcl-docs/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页'

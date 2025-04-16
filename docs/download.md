@@ -1,6 +1,6 @@
 # 下载
 
- - [下载地址](https://foldcraftlauncher.cn/download.html)
+ - [下载地址](https://foldcraftlauncher.cn/down.html)
 
 
  ::: danger 警告
